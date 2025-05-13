@@ -1,1 +1,1 @@
-# merge-conflict-demo
+This is a demo project
