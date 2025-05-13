@@ -1,4 +1,5 @@
 Demo Project
 
-PUT NAMES HERE
+Contributors:
 Medina, Cesar Janell
+LENDERO, DARYL KIM
